@@ -1,5 +1,7 @@
 using UnityEngine;
 
+[RequireComponent(typeof(Rigidbody))]
+[RequireComponent(typeof(SphereCollider))]
 public class MagnusEffect : MonoBehaviour {
 
 	public float magnusFactor = 1f;

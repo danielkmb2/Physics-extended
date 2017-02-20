@@ -1,5 +1,6 @@
 using UnityEngine;
 
+[RequireComponent(typeof(Rigidbody))]
 public class InitialWKick : MonoBehaviour {
 
 	public Vector3 initialVelocity;
