@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/Unbalanced rotation.unity
+- path: Assets/Scenes/Magnus effect.unity
   isLoaded: 1
   isActive: 1
