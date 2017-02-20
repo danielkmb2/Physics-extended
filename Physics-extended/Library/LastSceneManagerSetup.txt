@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/Magnus effect.unity
+- path: Assets/Scenes/Universal gravitation.unity
   isLoaded: 1
   isActive: 1
